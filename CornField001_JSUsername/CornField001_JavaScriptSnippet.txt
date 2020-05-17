@@ -1,0 +1,6 @@
+var name = window.cpAPIInterface.getVariableValue('teb_UserName');
+if (name.length == 0){
+window.cpAPIInterface.setVariableValue('txt_UserName','Beowulf');
+} else {
+window.cpAPIInterface.setVariableValue('txt_UserName',name);
+}
