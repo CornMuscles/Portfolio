@@ -1,0 +1,1 @@
+window.globalProvideSvgData('Layer_1-6D5O7IFVYnM', "<svg id=\"Layer_1-6D5O7IFVYnM\" xmlns=\"http://www.w3.org/2000/svg\" width=\"22.99\" height=\"18.6\" viewBox=\"0 0 22.99 18.6\"><g pointer-events=\"visiblePainted\" data-accepts=\"events\"><polygon points=\"7.92 18.6 0 10.68 3.54 7.14 7.92 11.53 19.46 0 22.99 3.54 7.92 18.6\" style=\"fill:#fff;\" /></g></svg>");
